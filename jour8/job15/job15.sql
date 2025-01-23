@@ -1,0 +1,1 @@
+SELECT (nom) * FROM salles AND SELECT (nom) * FROM étage;

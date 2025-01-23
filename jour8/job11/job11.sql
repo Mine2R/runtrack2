@@ -1,0 +1,1 @@
+SELECT SUM(capacité) AS total_capacité FROM salles;
