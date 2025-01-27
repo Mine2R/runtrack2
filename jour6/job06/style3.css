@@ -1,0 +1,27 @@
+body {
+    background-color: lightcoral;
+    font-family: 'Courier New', monospace;
+}
+
+form {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+label, select, button {
+    display: block;
+    margin: 10px 0;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkred;
+}
